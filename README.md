@@ -71,14 +71,14 @@ OPPBYGG의 최종 목표는 모든 행성을 탐험하고 자원 생산을 완�
 
 | 영역 | 예시 기술 | 적용 목적 |
 | :--- | :--- | :--- |
-| **게임 엔진** | Unity / Unreal Engine | VR 렌더링, 물리, 씬 관리 및 배포[cite: 1] |
+| **게임 엔진** | Unreal Engine | VR 렌더링, 물리, 씬 관리 및 배포[cite: 1] |
 | **VR 표준** | OpenXR | 다양한 VR 디바이스 및 입력 시스템 호환성 확보[cite: 1] |
 | **VR 인터랙션** | XR Interaction Toolkit / Unreal XR | 손, 컨트롤러, 물리 잡기 및 UI 인터랙션 구현[cite: 1] |
 | **스크립팅** | C# / C++ | 게임플레이, 생산 로직, 저장 시스템 처리[cite: 1] |
 | **물리 시스템** | PhysX 기반 물리 Engine | 자원 채취, 오브젝트 운반 및 장비 상호작용[cite: 1] |
 | **데이터 관리** | ScriptableObject / Data Asset / JSON | 자원, 레시피, 청사진, 설비 속성 데이터 관리[cite: 1] |
 | **자동화 시스템** | 생산 그래프, 이벤트 기반 파이프라인 | 자원 흐름, 벨트·파이프 네트워크 연결 시뮬레이션[cite: 1] |
-| **버전 관리** | Git, GitHub, Git LFS | 소스 코드, 대용량 VR 에셋 및 프로젝트 관리[cite: 1] |
+| **버전 관리** | Git, GitHub, Git LFS, 노션 | 소스 코드, 대용량 VR 에셋 및 프로젝트 관리[cite: 1] |
 
 ### System Architecture Layout
 
